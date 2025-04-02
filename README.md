@@ -1,4 +1,7 @@
 # git-totorial
-this is my first git 
+
+this is my first git
 
 author shubham tripathi
+
+self study
